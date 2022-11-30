@@ -1,5 +1,6 @@
 # PushNotification
 
+## 이 챕터를 통해 배운 것
 
 ## 결과화면
 
